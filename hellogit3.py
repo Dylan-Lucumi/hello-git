@@ -1,2 +1,1 @@
-print "Hello git 3 v.3" 
-
+print("Git v3")
